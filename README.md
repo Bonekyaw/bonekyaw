@@ -1,5 +1,7 @@
 ### I'm currently working on Project Management & Tech Lead
 
+# Thanks for everything
+
 <!--
 **Bonekyaw/bonekyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
